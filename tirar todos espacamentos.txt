@@ -1,0 +1,6 @@
+Sempre que for formatar um texto no html tira todos os espaçamentos usando
+
+* {
+
+margin: 0;
+padding: 0;

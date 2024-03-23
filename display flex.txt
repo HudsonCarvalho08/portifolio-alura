@@ -1,0 +1,1 @@
+o display flex ele vai faze ele ficar ordenado em caixas

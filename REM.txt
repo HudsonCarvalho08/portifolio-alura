@@ -1,0 +1,3 @@
+a propriedade REM seria para alterar o tamanho da fonte dos projetos de acordo com o navegador ex:
+
+1 REM equivale a 16px, ou seja se tiver 36px vai dividir por 16 = 36/16 = 2,25rem no font-size

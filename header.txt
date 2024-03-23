@@ -1,0 +1,1 @@
+O header seria o cabecalho onde há navegação dos menus, exemplos: sobre, experiencia e etc

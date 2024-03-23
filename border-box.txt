@@ -1,0 +1,1 @@
+box-sizing: border-box: nada mais do que nao deixar a escrita sair da borda
